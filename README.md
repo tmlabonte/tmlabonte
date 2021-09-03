@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **deep learning research at MSR**
 
-- ⚡️ I’m currently learning **PyTorch Lightning**
+- ⚡️ I’m currently learning **convex and non-convex optimization**
 
-- 💬 Ask me about **the lottery ticket hypothesis**
+- 💬 Ask me about **the double descent phenomenon**
 
 - 👨‍💻 Visit my website [**tyler-labonte.com**](https://tyler-labonte.com)
 
-- 📫 Reach me at **tlabonte@usc.edu**
+- 📫 Reach me at **tlabonte@gatech.edu**
 
 - 🐦 Follow me on [**twitter**](https://twitter.com/tmlabonte)
 
