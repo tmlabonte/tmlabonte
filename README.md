@@ -13,4 +13,4 @@
 
 - 🐦 Follow me on [**twitter**](https://twitter.com/tmlabonte)
 
-- 🎸 Fun fact: my favorite guitarist is [Mark Knopfler](https://en.wikipedia.org/wiki/Mark_Knopfler) from [Dire Straits](https://en.wikipedia.org/wiki/Dire_Straits)
+- 🎸 Fun fact: my favorite band is [Talking Heads](https://en.wikipedia.org/wiki/Talking_Heads)
