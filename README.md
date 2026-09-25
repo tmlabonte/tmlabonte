@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on **trustworthy multimodal agents**
 
-- ⚡️ I’m currently learning about **world models**
+- ⚡️ I’m currently learning about **reinforcement learning**
 
 - 💬 Ask me about **spurious correlations**
 
 - 👨‍💻 Visit my website [**tyler-labonte.com**](https://tyler-labonte.com)
-
-- 📫 Reach me at **tlabonte@gatech.edu**
 
 - 🐦 Follow me on [**twitter**](https://twitter.com/tmlabonte)
 
